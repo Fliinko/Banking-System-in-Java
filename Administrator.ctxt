@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Administrator
+comment1.params=n\ s\ age\ id\ p\ SN\ TN\ pin
+comment1.target=Administrator(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ int,\ int,\ int)
+comment10.params=obj
+comment10.target=boolean\ equalsStaffNumber(java.lang.Object)
+comment11.params=obj
+comment11.target=boolean\ equalsPassword(java.lang.Object)
+comment12.params=obj
+comment12.target=boolean\ equalsPin(java.lang.Object)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getSurname()
+comment4.params=
+comment4.target=java.lang.String\ getID()
+comment5.params=
+comment5.target=java.lang.String\ getPassword()
+comment6.params=
+comment6.target=int\ getSTAFF_NO()
+comment7.params=
+comment7.target=int\ getTEL_NO()
+comment8.params=
+comment8.target=int\ getPin()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=13

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Report
+comment1.params=
+comment1.target=Report()
+comment2.params=report\ file\ number
+comment2.target=Report(java.lang.String,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getReport()
+comment4.params=
+comment4.target=java.lang.String\ getFile()
+comment5.params=
+comment5.target=int\ getNumber()
+comment6.params=report
+comment6.target=void\ setReport(java.lang.String)
+comment7.params=file
+comment7.target=void\ setFile(java.lang.String)
+comment8.params=number
+comment8.target=void\ setNumber(int)
+numComments=9
